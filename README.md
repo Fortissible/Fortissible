@@ -3,7 +3,7 @@
 <div>
 <h2> :iphone: Mobile Developer </h2>
   
-  <img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/pixel_mobile.gif"/>
+  <img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/pixel_mobile_clear.gif"/>
   
 - [Google Associate Android Developer](https://www.credential.net/e592e9f7-27ca-4341-8c98-3e0dc4797f7f?key=57e10d8e3f4071e454f1d37bd556aedaf5c73fe98fef402dba87e2c931e4092e)
 - [Google Bangkit2022 Mobile Development Graduate](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
@@ -37,7 +37,7 @@
   
 <h2> :brain: Machine Learning Enthusiast</h2>
 
-  <img align="right" width="150" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
+  <img align="right" width="200" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
   
 - Data analytic & exploration
 - ML/Neural Network Classifier
@@ -49,9 +49,14 @@
   <br>
 - 🌱 Currently learn
   Bioinformatics
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
 
 ----
+
 [![Fortissible github stats](https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack,javascript&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
