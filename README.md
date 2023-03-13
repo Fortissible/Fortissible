@@ -52,7 +52,7 @@
 </div>
 
 ----
-[![Fortissible github stats](https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Fortissible github stats](https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack,javascript&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
