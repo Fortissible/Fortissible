@@ -35,7 +35,7 @@
 
 <div>
   
-<h2> :brain: Machine Learning </h2>
+<h2> :brain: Machine Learning Enthusiast</h2>
 
   <img align="right" width="150" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
   
