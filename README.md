@@ -65,7 +65,7 @@
 </div>
 
 ----
-### Let's Connect :coffee:
+<h2> :coffee: Let's Connect </h2>
 <p align="center">
 	<a href="https://github.com/wildanfajri1alfarabi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/wildan-fajri-alfarabi-a01474201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
