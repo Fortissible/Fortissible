@@ -60,7 +60,7 @@
 <div align="center"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack,javascript&langs_count=8&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack&langs_count=8&layout=compact" />
 
 </div>
 
