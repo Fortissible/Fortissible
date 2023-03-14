@@ -15,11 +15,13 @@
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
   <br>
   <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
   <img src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt = "npm" />
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
   <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src = "https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="circleci"/>
   <br>
 - Design tools
   <br>
@@ -40,31 +42,34 @@
   <img align="right" width="200" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
   
 - Data analytic & exploration
-- ML/Neural Network Classifier
+- ML/Neural Network Classifier for <br>
+  <img src = "https://img.shields.io/badge/ComputerVision-%2331A8FF.svg?style=for-the-badge" alt = "computervision" />
 - Language
   <br>
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "py" />
   <img src = "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
   <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt = "r" />
   <br>
-- 🌱 Currently learn
-  Bioinformatics
-  <br>
-  <br>
-  <br>
+- 🌱 Currently learn <br>
+  <img src = "https://img.shields.io/badge/bioinformatics-6DA55F.svg?style=for-the-badge" alt = "bioinformatics" />
   <br>
 </div>
 
 ----
 
-[![Fortissible github stats](https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack,javascript&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack,javascript&langs_count=8&layout=compact" />
+
+</div>
 
 ----
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/wildanfajri1alfarabi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/wildan-fajri-alfarabi-a01474201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:wildanfajrismp259@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
 </p>
 <!--
 **wildanfajri1alfarabi/wildanfajri1alfarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
