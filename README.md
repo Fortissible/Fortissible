@@ -59,17 +59,17 @@
 
 <div align="center"/>
 
-<img height="180em" src="https://github-readme-stats-aljn.vercel.app/api?username=wildanfajri1alfarabi&theme=material-palenight&count_private=true&hide=contribs&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-aljn.vercel.app/api/top-langs/?username=wildanfajri1alfarabi&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack&langs_count=8&layout=compact" />
+<img height="180em" src="https://github-readme-stats-aljn.vercel.app/api?username=Fortissible&theme=material-palenight&count_private=true&hide=contribs&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-aljn.vercel.app/api/top-langs/?username=Fortissible&theme=material-palenight&hide=php,asp.net,rich+text+format,hlsl,css,shaderlab,hack&langs_count=8&layout=compact" />
 
 </div>
 
 ----
 <h2> :coffee: Let's Connect </h2>
 <p align="center">
-	<a href="https://github.com/wildanfajri1alfarabi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/Fortissible"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/wildan-fajri-alfarabi-a01474201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:wildanfajrismp259@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
+	<a href="mailto:wildanfajri85@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
 </p>
 <!--
 **wildanfajri1alfarabi/wildanfajri1alfarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
