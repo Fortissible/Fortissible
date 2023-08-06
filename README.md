@@ -7,9 +7,9 @@
   
 - [Google Associate Android Developer](https://www.credential.net/e592e9f7-27ca-4341-8c98-3e0dc4797f7f?key=57e10d8e3f4071e454f1d37bd556aedaf5c73fe98fef402dba87e2c931e4092e)
 - [Google Bangkit2022 Mobile Development Graduate](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
-- Native Kotlin and Multiplatform (Flutter & ReactNative) Mobile Developer
+- Native Kotlin and Multiplatform Flutter Mobile Developer
 - Well experienced with UI/UX Design
-- MVVM/MVC Design pattern 
+- MVVM/MVC/BLoC/Provider pattern 
 - Language, frameworks & libraries
   <br>
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
