@@ -67,7 +67,6 @@
   <br>
 - 🌱 Learning in progress
   <br>
-  <br>
   <img src = "https://img.shields.io/badge/FrontEnd-%23FA0F00.svg?style=for-the-badge" alt = "FE" />
   <img src = "https://img.shields.io/badge/BackEnd-%23276DC3.svg?style=for-the-badge" alt = "BE" />
   <br>
