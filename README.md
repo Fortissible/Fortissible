@@ -60,10 +60,14 @@
 <div>
   
 <h2> 🌐 Web Developer </h2>
+
 - Frameworks
   <br>
   <img src = "https://img.shields.io/badge/Laravel-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel"/>
   <br>
+- DevOps
+  <br>
+  <img src = "https://img.shields.io/badge/Docker-346eeb.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "docker"/>
   <br>
 - 🌱 Learning in progress
   <br>
