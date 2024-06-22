@@ -1,7 +1,7 @@
 <h2 align = center > Hi there..👋 <br>Fortissible here!</h2>
 
 <div>
-<h2> :iphone: Mobile Developer </h2>
+<h2> :iphone: Mobile Development </h2>
   
   <img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/pixel_mobile_clear.gif"/>
   
@@ -40,8 +40,12 @@
 <h2> :brain: Machine Learning Enthusiast</h2>
 
   <img align="right" width="200" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
-  
+
+- Experienced in multiple data types (e.g Time series, Image, Video, NLP, Tabular)
 - Data analytic & exploration
+- Object detection/classification
+- NLP preprocessing & analysis
+- Genomic mutation analysis for drugs resistance prediction
 - ML/Neural Network Classifier for <br>
   <img src = "https://img.shields.io/badge/ComputerVision-%2331A8FF.svg?style=for-the-badge" alt = "computervision" />
 - Language
@@ -59,20 +63,27 @@
 
 <div>
   
-<h2> 🌐 Web Developer </h2>
+<h2> 🌐 Web Development </h2>
 
+- Developing multiple responsive and high scalability project (e.g Health Care & Districts CMS, Recruitment System, SPA, MPA)
 - Frameworks
   <br>
   <img src = "https://img.shields.io/badge/Laravel-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel"/>
+  <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
+  <img src = "https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB" alt = "nextjs" />
+  <img src = "https://img.shields.io/badge/Tailwind-%2374bbed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt = "tailwind" />
+  <img src = "https://img.shields.io/badge/Bootstrap-%238f4db8.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap" />
   <br>
 - DevOps
   <br>
   <img src = "https://img.shields.io/badge/Docker-346eeb.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "docker"/>
+  <img src = "https://img.shields.io/badge/Gitlab CI-e06b3d.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt = "docker"/>
+  <img src = "https://img.shields.io/badge/Jenkins-b52a22.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt = "docker"/>
   <br>
 - 🌱 Learning in progress
   <br>
   <img src = "https://img.shields.io/badge/FrontEnd-%23FA0F00.svg?style=for-the-badge" alt = "FE" />
-  <img src = "https://img.shields.io/badge/NodeJS BackEnd-%23276DC3.svg?style=for-the-badge" alt = "BE" />
+  <img src = "https://img.shields.io/badge/Node.js BackEnd-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
   <br>
 </div>
 
