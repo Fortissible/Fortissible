@@ -2,7 +2,7 @@
 
 <div>
 <h2> :iphone: Mobile Development </h2>
-  
+	
   <img align="right" width="200" alt="Animated mobile pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/pixel_mobile_clear.gif"/>
   
 - [Google Associate Android Developer](https://www.credential.net/e592e9f7-27ca-4341-8c98-3e0dc4797f7f?key=57e10d8e3f4071e454f1d37bd556aedaf5c73fe98fef402dba87e2c931e4092e)
@@ -38,7 +38,8 @@
 <div>
   
 <h2> :brain: Machine Learning Enthusiast</h2>
-
+<details>
+<summary> <h3>  ML Experiences</h3> </summary>
   <img align="right" width="200" alt="Animated robot pixel" src="https://github.com/wildanfajri1alfarabi/wildanfajri1alfarabi/blob/main/robot-idle.gif"/>
 
 - Experienced in multiple data types (e.g Time series, Image, Video, NLP, Tabular)
@@ -58,13 +59,14 @@
   <img src = "https://img.shields.io/badge/bioinformatics-6DA55F.svg?style=for-the-badge" alt = "bioinformatics" />
   <br>
 </div>
-
+</details>
 <br>
 
 <div>
   
 <h2> 🌐 Web Development </h2>
-
+<details>
+<summary> <h3>WebDev Experiences</h3> </summary>
 - Developing multiple responsive and high scalability project (e.g Health Care & Districts CMS, Recruitment System, SPA, MPA)
 - Frameworks
   <br>
@@ -85,6 +87,7 @@
   <img src = "https://img.shields.io/badge/FrontEnd-%23FA0F00.svg?style=for-the-badge" alt = "FE" />
   <img src = "https://img.shields.io/badge/Node.js BackEnd-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "NodeJS" />
   <br>
+</details>
 </div>
 
 ----
