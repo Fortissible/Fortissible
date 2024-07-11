@@ -68,6 +68,7 @@
 <details>
 <summary> <h3>WebDev Experiences</h3> </summary>
 - Developing multiple responsive and high scalability project (e.g Health Care & Districts CMS, Recruitment System, SPA, MPA)
+  <br>
 - Frameworks
   <br>
   <img src = "https://img.shields.io/badge/Laravel-%23CB3837.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel"/>
