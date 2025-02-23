@@ -8,13 +8,13 @@
 - [Portfolio](https://fortissible.github.io/simple-page-portofolio/)
 - [Google Associate Android Developer](https://www.credential.net/e592e9f7-27ca-4341-8c98-3e0dc4797f7f?key=57e10d8e3f4071e454f1d37bd556aedaf5c73fe98fef402dba87e2c931e4092e)
 - [Google Bangkit2022 Mobile Development Graduate](https://grow.google/intl/id_id/bangkit/?tab=mobile-development)
-- Native Kotlin and Multiplatform Flutter Mobile Developer
+- Native and Multiplatform Mobile Developer
 - Well experienced with UI/UX Design
 - MVVM/MVC/BLoC/Provider pattern 
 - Language, frameworks & libraries
   <br>
   <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
-  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
+  <img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt = "flutter" />
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
   <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js"/>
   <br>
@@ -31,7 +31,7 @@
   <br>
 - 🌱 Currently learn
   <br>
-  <img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt = "flutter" />
+  <img src = "https://img.shields.io/badge/Swift-%23F24E1E.svg?style=for-the-badge&logo=Swift&logoColor=white" alt = "Swift" />
 </div>
 
 <br>
